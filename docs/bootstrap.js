@@ -10,8 +10,7 @@
 // A dependency graph that contains any wasm must all be imported
 // asynchronously. This `bootstrap.js` file does the single async import, so
 // that no one else needs to worry about it again.
-Promise.all(/*! import() */[__webpack_require__.e(2), __webpack_require__.e(1)]).then(__webpack_require__.t.bind(__webpack_require__, /*! ./index.ts */ "./index.ts", 23)).catch(e => console.error("Error importing `index.ts`:", e));
-__webpack_require__.e(/*! import() */ 0).then(__webpack_require__.bind(__webpack_require__, /*! ./linter.ts */ "./linter.ts")).catch(e => console.error("Error importing `linter.ts`:", e));
+Promise.all(/*! import() */[__webpack_require__.e(1), __webpack_require__.e(0)]).then(__webpack_require__.t.bind(__webpack_require__, /*! ./index.ts */ "./index.ts", 23)).catch(e => console.error("Error importing `index.ts`:", e));
 
 /***/ })
 
@@ -244,7 +243,7 @@ __webpack_require__.e(/*! import() */ 0).then(__webpack_require__.bind(__webpack
 /******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
 /******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
-/******/ 			3: 0
+/******/ 			2: 0
 /******/ 		};
 /******/ 		
 /******/ 		__webpack_require__.f.j = (chunkId, promises) => {
