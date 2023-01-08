@@ -539,7 +539,7 @@ Promise.all(/*! import() */[__webpack_require__.e(1), __webpack_require__.e(0)])
 /******/ 					promises.push(installedWasmModuleData);
 /******/ 				else {
 /******/ 					var importObject = wasmImportObjects[wasmModuleId]();
-/******/ 					var req = fetch(__webpack_require__.p + "" + {"0":{"../pkg/js_interop_bg.wasm":"0a770f5db7a257676955"}}[chunkId][wasmModuleId] + ".module.wasm");
+/******/ 					var req = fetch(__webpack_require__.p + "" + {"0":{"../pkg/js_interop_bg.wasm":"c3173ebab438517a060a"}}[chunkId][wasmModuleId] + ".module.wasm");
 /******/ 					var promise;
 /******/ 					if(importObject && typeof importObject.then === 'function' && typeof WebAssembly.compileStreaming === 'function') {
 /******/ 						promise = Promise.all([WebAssembly.compileStreaming(req), importObject]).then(function(items) {
