@@ -10,39 +10,46 @@
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "ScannerAndAnalyzer": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.ScannerAndAnalyzer),
-/* harmony export */   "__wbg_buffer_34f5ec9f8a838ba0": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_buffer_34f5ec9f8a838ba0),
-/* harmony export */   "__wbg_call_33d7bcddbbfa394a": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_call_33d7bcddbbfa394a),
-/* harmony export */   "__wbg_crypto_b95d7173266618a9": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_crypto_b95d7173266618a9),
-/* harmony export */   "__wbg_error_09919627ac0992f5": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_error_09919627ac0992f5),
-/* harmony export */   "__wbg_getRandomValues_b14734aa289bc356": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_getRandomValues_b14734aa289bc356),
-/* harmony export */   "__wbg_globalThis_3348936ac49df00a": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_globalThis_3348936ac49df00a),
-/* harmony export */   "__wbg_global_67175caf56f55ca9": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_global_67175caf56f55ca9),
-/* harmony export */   "__wbg_length_51f19f73d6d9eff3": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_length_51f19f73d6d9eff3),
-/* harmony export */   "__wbg_msCrypto_5a86d77a66230f81": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_msCrypto_5a86d77a66230f81),
-/* harmony export */   "__wbg_new_693216e109162396": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_new_693216e109162396),
-/* harmony export */   "__wbg_new_cda198d9dbc6d7ea": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_new_cda198d9dbc6d7ea),
-/* harmony export */   "__wbg_newnoargs_971e9a5abe185139": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_newnoargs_971e9a5abe185139),
-/* harmony export */   "__wbg_newwithlength_66e5530e7079ea1b": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_newwithlength_66e5530e7079ea1b),
-/* harmony export */   "__wbg_node_0dd25d832e4785d5": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_node_0dd25d832e4785d5),
-/* harmony export */   "__wbg_process_e56fd54cf6319b6c": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_process_e56fd54cf6319b6c),
-/* harmony export */   "__wbg_randomFillSync_91e2b39becca6147": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_randomFillSync_91e2b39becca6147),
-/* harmony export */   "__wbg_require_0db1598d9ccecb30": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_require_0db1598d9ccecb30),
-/* harmony export */   "__wbg_self_fd00a1ef86d1b2ed": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_self_fd00a1ef86d1b2ed),
-/* harmony export */   "__wbg_set_1a930cfcda1a8067": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_set_1a930cfcda1a8067),
-/* harmony export */   "__wbg_stack_0ddaca5d1abfb52f": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_stack_0ddaca5d1abfb52f),
-/* harmony export */   "__wbg_static_accessor_NODE_MODULE_26b231378c1be7dd": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_static_accessor_NODE_MODULE_26b231378c1be7dd),
-/* harmony export */   "__wbg_subarray_270ff8dd5582c1ac": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_subarray_270ff8dd5582c1ac),
-/* harmony export */   "__wbg_versions_77e21455908dad33": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_versions_77e21455908dad33),
-/* harmony export */   "__wbg_window_6f6e346d8bbd61d7": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_window_6f6e346d8bbd61d7),
+/* harmony export */   "__wbg_buffer_cf65c07de34b9a08": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_buffer_cf65c07de34b9a08),
+/* harmony export */   "__wbg_call_9495de66fdbe016b": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_call_9495de66fdbe016b),
+/* harmony export */   "__wbg_call_95d1ea488d03e4e8": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_call_95d1ea488d03e4e8),
+/* harmony export */   "__wbg_crypto_e1d53a1d73fb10b8": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_crypto_e1d53a1d73fb10b8),
+/* harmony export */   "__wbg_error_f851667af71bcfc6": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_error_f851667af71bcfc6),
+/* harmony export */   "__wbg_getRandomValues_805f1c3d65988a5a": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_getRandomValues_805f1c3d65988a5a),
+/* harmony export */   "__wbg_globalThis_87cbb8506fecf3a9": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_globalThis_87cbb8506fecf3a9),
+/* harmony export */   "__wbg_global_c85a9259e621f3db": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_global_c85a9259e621f3db),
+/* harmony export */   "__wbg_length_27a2afe8ab42b09f": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_length_27a2afe8ab42b09f),
+/* harmony export */   "__wbg_msCrypto_6e7d3e1f92610cbb": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_msCrypto_6e7d3e1f92610cbb),
+/* harmony export */   "__wbg_new_537b7341ce90bb31": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_new_537b7341ce90bb31),
+/* harmony export */   "__wbg_new_abda76e883ba8a5f": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_new_abda76e883ba8a5f),
+/* harmony export */   "__wbg_newnoargs_2b8b6bd7753c76ba": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_newnoargs_2b8b6bd7753c76ba),
+/* harmony export */   "__wbg_newwithlength_b56c882b57805732": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_newwithlength_b56c882b57805732),
+/* harmony export */   "__wbg_node_080f4b19d15bc1fe": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_node_080f4b19d15bc1fe),
+/* harmony export */   "__wbg_process_038c26bf42b093f8": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_process_038c26bf42b093f8),
+/* harmony export */   "__wbg_randomFillSync_6894564c2c334c42": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_randomFillSync_6894564c2c334c42),
+/* harmony export */   "__wbg_require_78a3dcfbdba9cbce": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_require_78a3dcfbdba9cbce),
+/* harmony export */   "__wbg_self_e7c1f827057f6584": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_self_e7c1f827057f6584),
+/* harmony export */   "__wbg_set_17499e8aa4003ebd": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_set_17499e8aa4003ebd),
+/* harmony export */   "__wbg_set_wasm": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_set_wasm),
+/* harmony export */   "__wbg_stack_658279fe44541cf6": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_stack_658279fe44541cf6),
+/* harmony export */   "__wbg_subarray_7526649b91a252a6": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_subarray_7526649b91a252a6),
+/* harmony export */   "__wbg_versions_ab37218d2f0b24a8": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_versions_ab37218d2f0b24a8),
+/* harmony export */   "__wbg_window_a09ec664e14b1b81": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_window_a09ec664e14b1b81),
+/* harmony export */   "__wbindgen_is_function": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_is_function),
 /* harmony export */   "__wbindgen_is_object": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_is_object),
 /* harmony export */   "__wbindgen_is_string": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_is_string),
 /* harmony export */   "__wbindgen_is_undefined": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_is_undefined),
 /* harmony export */   "__wbindgen_memory": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_memory),
 /* harmony export */   "__wbindgen_object_clone_ref": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_object_clone_ref),
 /* harmony export */   "__wbindgen_object_drop_ref": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_object_drop_ref),
+/* harmony export */   "__wbindgen_string_new": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_string_new),
 /* harmony export */   "__wbindgen_throw": () => (/* reexport safe */ _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_throw)
 /* harmony export */ });
+/* harmony import */ var _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./js_interop_bg.wasm */ "../pkg/js_interop_bg.wasm");
 /* harmony import */ var _js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js_interop_bg.js */ "../pkg/js_interop_bg.js");
+
+
+(0,_js_interop_bg_js__WEBPACK_IMPORTED_MODULE_0__.__wbg_set_wasm)(_js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_1__);
 
 
 
@@ -57,43 +64,49 @@ __webpack_require__.r(__webpack_exports__);
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "ScannerAndAnalyzer": () => (/* binding */ ScannerAndAnalyzer),
-/* harmony export */   "__wbg_buffer_34f5ec9f8a838ba0": () => (/* binding */ __wbg_buffer_34f5ec9f8a838ba0),
-/* harmony export */   "__wbg_call_33d7bcddbbfa394a": () => (/* binding */ __wbg_call_33d7bcddbbfa394a),
-/* harmony export */   "__wbg_crypto_b95d7173266618a9": () => (/* binding */ __wbg_crypto_b95d7173266618a9),
-/* harmony export */   "__wbg_error_09919627ac0992f5": () => (/* binding */ __wbg_error_09919627ac0992f5),
-/* harmony export */   "__wbg_getRandomValues_b14734aa289bc356": () => (/* binding */ __wbg_getRandomValues_b14734aa289bc356),
-/* harmony export */   "__wbg_globalThis_3348936ac49df00a": () => (/* binding */ __wbg_globalThis_3348936ac49df00a),
-/* harmony export */   "__wbg_global_67175caf56f55ca9": () => (/* binding */ __wbg_global_67175caf56f55ca9),
-/* harmony export */   "__wbg_length_51f19f73d6d9eff3": () => (/* binding */ __wbg_length_51f19f73d6d9eff3),
-/* harmony export */   "__wbg_msCrypto_5a86d77a66230f81": () => (/* binding */ __wbg_msCrypto_5a86d77a66230f81),
-/* harmony export */   "__wbg_new_693216e109162396": () => (/* binding */ __wbg_new_693216e109162396),
-/* harmony export */   "__wbg_new_cda198d9dbc6d7ea": () => (/* binding */ __wbg_new_cda198d9dbc6d7ea),
-/* harmony export */   "__wbg_newnoargs_971e9a5abe185139": () => (/* binding */ __wbg_newnoargs_971e9a5abe185139),
-/* harmony export */   "__wbg_newwithlength_66e5530e7079ea1b": () => (/* binding */ __wbg_newwithlength_66e5530e7079ea1b),
-/* harmony export */   "__wbg_node_0dd25d832e4785d5": () => (/* binding */ __wbg_node_0dd25d832e4785d5),
-/* harmony export */   "__wbg_process_e56fd54cf6319b6c": () => (/* binding */ __wbg_process_e56fd54cf6319b6c),
-/* harmony export */   "__wbg_randomFillSync_91e2b39becca6147": () => (/* binding */ __wbg_randomFillSync_91e2b39becca6147),
-/* harmony export */   "__wbg_require_0db1598d9ccecb30": () => (/* binding */ __wbg_require_0db1598d9ccecb30),
-/* harmony export */   "__wbg_self_fd00a1ef86d1b2ed": () => (/* binding */ __wbg_self_fd00a1ef86d1b2ed),
-/* harmony export */   "__wbg_set_1a930cfcda1a8067": () => (/* binding */ __wbg_set_1a930cfcda1a8067),
-/* harmony export */   "__wbg_stack_0ddaca5d1abfb52f": () => (/* binding */ __wbg_stack_0ddaca5d1abfb52f),
-/* harmony export */   "__wbg_static_accessor_NODE_MODULE_26b231378c1be7dd": () => (/* binding */ __wbg_static_accessor_NODE_MODULE_26b231378c1be7dd),
-/* harmony export */   "__wbg_subarray_270ff8dd5582c1ac": () => (/* binding */ __wbg_subarray_270ff8dd5582c1ac),
-/* harmony export */   "__wbg_versions_77e21455908dad33": () => (/* binding */ __wbg_versions_77e21455908dad33),
-/* harmony export */   "__wbg_window_6f6e346d8bbd61d7": () => (/* binding */ __wbg_window_6f6e346d8bbd61d7),
+/* harmony export */   "__wbg_buffer_cf65c07de34b9a08": () => (/* binding */ __wbg_buffer_cf65c07de34b9a08),
+/* harmony export */   "__wbg_call_9495de66fdbe016b": () => (/* binding */ __wbg_call_9495de66fdbe016b),
+/* harmony export */   "__wbg_call_95d1ea488d03e4e8": () => (/* binding */ __wbg_call_95d1ea488d03e4e8),
+/* harmony export */   "__wbg_crypto_e1d53a1d73fb10b8": () => (/* binding */ __wbg_crypto_e1d53a1d73fb10b8),
+/* harmony export */   "__wbg_error_f851667af71bcfc6": () => (/* binding */ __wbg_error_f851667af71bcfc6),
+/* harmony export */   "__wbg_getRandomValues_805f1c3d65988a5a": () => (/* binding */ __wbg_getRandomValues_805f1c3d65988a5a),
+/* harmony export */   "__wbg_globalThis_87cbb8506fecf3a9": () => (/* binding */ __wbg_globalThis_87cbb8506fecf3a9),
+/* harmony export */   "__wbg_global_c85a9259e621f3db": () => (/* binding */ __wbg_global_c85a9259e621f3db),
+/* harmony export */   "__wbg_length_27a2afe8ab42b09f": () => (/* binding */ __wbg_length_27a2afe8ab42b09f),
+/* harmony export */   "__wbg_msCrypto_6e7d3e1f92610cbb": () => (/* binding */ __wbg_msCrypto_6e7d3e1f92610cbb),
+/* harmony export */   "__wbg_new_537b7341ce90bb31": () => (/* binding */ __wbg_new_537b7341ce90bb31),
+/* harmony export */   "__wbg_new_abda76e883ba8a5f": () => (/* binding */ __wbg_new_abda76e883ba8a5f),
+/* harmony export */   "__wbg_newnoargs_2b8b6bd7753c76ba": () => (/* binding */ __wbg_newnoargs_2b8b6bd7753c76ba),
+/* harmony export */   "__wbg_newwithlength_b56c882b57805732": () => (/* binding */ __wbg_newwithlength_b56c882b57805732),
+/* harmony export */   "__wbg_node_080f4b19d15bc1fe": () => (/* binding */ __wbg_node_080f4b19d15bc1fe),
+/* harmony export */   "__wbg_process_038c26bf42b093f8": () => (/* binding */ __wbg_process_038c26bf42b093f8),
+/* harmony export */   "__wbg_randomFillSync_6894564c2c334c42": () => (/* binding */ __wbg_randomFillSync_6894564c2c334c42),
+/* harmony export */   "__wbg_require_78a3dcfbdba9cbce": () => (/* binding */ __wbg_require_78a3dcfbdba9cbce),
+/* harmony export */   "__wbg_self_e7c1f827057f6584": () => (/* binding */ __wbg_self_e7c1f827057f6584),
+/* harmony export */   "__wbg_set_17499e8aa4003ebd": () => (/* binding */ __wbg_set_17499e8aa4003ebd),
+/* harmony export */   "__wbg_set_wasm": () => (/* binding */ __wbg_set_wasm),
+/* harmony export */   "__wbg_stack_658279fe44541cf6": () => (/* binding */ __wbg_stack_658279fe44541cf6),
+/* harmony export */   "__wbg_subarray_7526649b91a252a6": () => (/* binding */ __wbg_subarray_7526649b91a252a6),
+/* harmony export */   "__wbg_versions_ab37218d2f0b24a8": () => (/* binding */ __wbg_versions_ab37218d2f0b24a8),
+/* harmony export */   "__wbg_window_a09ec664e14b1b81": () => (/* binding */ __wbg_window_a09ec664e14b1b81),
+/* harmony export */   "__wbindgen_is_function": () => (/* binding */ __wbindgen_is_function),
 /* harmony export */   "__wbindgen_is_object": () => (/* binding */ __wbindgen_is_object),
 /* harmony export */   "__wbindgen_is_string": () => (/* binding */ __wbindgen_is_string),
 /* harmony export */   "__wbindgen_is_undefined": () => (/* binding */ __wbindgen_is_undefined),
 /* harmony export */   "__wbindgen_memory": () => (/* binding */ __wbindgen_memory),
 /* harmony export */   "__wbindgen_object_clone_ref": () => (/* binding */ __wbindgen_object_clone_ref),
 /* harmony export */   "__wbindgen_object_drop_ref": () => (/* binding */ __wbindgen_object_drop_ref),
+/* harmony export */   "__wbindgen_string_new": () => (/* binding */ __wbindgen_string_new),
 /* harmony export */   "__wbindgen_throw": () => (/* binding */ __wbindgen_throw)
 /* harmony export */ });
-/* harmony import */ var _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./js_interop_bg.wasm */ "../pkg/js_interop_bg.wasm");
 /* module decorator */ module = __webpack_require__.hmd(module);
+let wasm;
+function __wbg_set_wasm(val) {
+    wasm = val;
+}
 
 
-const heap = new Array(32).fill(undefined);
+const heap = new Array(128).fill(undefined);
 
 heap.push(undefined, null, true, false);
 
@@ -102,7 +115,7 @@ function getObject(idx) { return heap[idx]; }
 let heap_next = heap.length;
 
 function dropObject(idx) {
-    if (idx < 36) return;
+    if (idx < 132) return;
     heap[idx] = heap_next;
     heap_next = idx;
 }
@@ -128,11 +141,11 @@ let cachedTextDecoder = new lTextDecoder('utf-8', { ignoreBOM: true, fatal: true
 
 cachedTextDecoder.decode();
 
-let cachedUint8Memory0 = new Uint8Array();
+let cachedUint8Memory0 = null;
 
 function getUint8Memory0() {
-    if (cachedUint8Memory0.byteLength === 0) {
-        cachedUint8Memory0 = new Uint8Array(_js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.memory.buffer);
+    if (cachedUint8Memory0 === null || cachedUint8Memory0.byteLength === 0) {
+        cachedUint8Memory0 = new Uint8Array(wasm.memory.buffer);
     }
     return cachedUint8Memory0;
 }
@@ -198,11 +211,11 @@ function passStringToWasm0(arg, malloc, realloc) {
     return ptr;
 }
 
-let cachedInt32Memory0 = new Int32Array();
+let cachedInt32Memory0 = null;
 
 function getInt32Memory0() {
-    if (cachedInt32Memory0.byteLength === 0) {
-        cachedInt32Memory0 = new Int32Array(_js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.memory.buffer);
+    if (cachedInt32Memory0 === null || cachedInt32Memory0.byteLength === 0) {
+        cachedInt32Memory0 = new Int32Array(wasm.memory.buffer);
     }
     return cachedInt32Memory0;
 }
@@ -211,7 +224,7 @@ function handleError(f, args) {
     try {
         return f.apply(this, args);
     } catch (e) {
-        _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_exn_store(addHeapObject(e));
+        wasm.__wbindgen_exn_store(addHeapObject(e));
     }
 }
 
@@ -238,12 +251,12 @@ class ScannerAndAnalyzer {
 
     free() {
         const ptr = this.__destroy_into_raw();
-        _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbg_scannerandanalyzer_free(ptr);
+        wasm.__wbg_scannerandanalyzer_free(ptr);
     }
     /**
     */
     constructor() {
-        const ret = _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.scannerandanalyzer_new();
+        const ret = wasm.scannerandanalyzer_new();
         return ScannerAndAnalyzer.__wrap(ret);
     }
     /**
@@ -252,38 +265,38 @@ class ScannerAndAnalyzer {
     */
     get_results(file_contents) {
         try {
-            const retptr = _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_add_to_stack_pointer(-16);
-            const ptr0 = passStringToWasm0(file_contents, _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_malloc, _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_realloc);
+            const retptr = wasm.__wbindgen_add_to_stack_pointer(-16);
+            const ptr0 = passStringToWasm0(file_contents, wasm.__wbindgen_malloc, wasm.__wbindgen_realloc);
             const len0 = WASM_VECTOR_LEN;
-            _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.scannerandanalyzer_get_results(retptr, this.ptr, ptr0, len0);
+            wasm.scannerandanalyzer_get_results(retptr, this.ptr, ptr0, len0);
             var r0 = getInt32Memory0()[retptr / 4 + 0];
             var r1 = getInt32Memory0()[retptr / 4 + 1];
             return getStringFromWasm0(r0, r1);
         } finally {
-            _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_add_to_stack_pointer(16);
-            _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_free(r0, r1);
+            wasm.__wbindgen_add_to_stack_pointer(16);
+            wasm.__wbindgen_free(r0, r1);
         }
     }
 }
 
-function __wbg_new_693216e109162396() {
+function __wbg_new_abda76e883ba8a5f() {
     const ret = new Error();
     return addHeapObject(ret);
 };
 
-function __wbg_stack_0ddaca5d1abfb52f(arg0, arg1) {
+function __wbg_stack_658279fe44541cf6(arg0, arg1) {
     const ret = getObject(arg1).stack;
-    const ptr0 = passStringToWasm0(ret, _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_malloc, _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_realloc);
+    const ptr0 = passStringToWasm0(ret, wasm.__wbindgen_malloc, wasm.__wbindgen_realloc);
     const len0 = WASM_VECTOR_LEN;
     getInt32Memory0()[arg0 / 4 + 1] = len0;
     getInt32Memory0()[arg0 / 4 + 0] = ptr0;
 };
 
-function __wbg_error_09919627ac0992f5(arg0, arg1) {
+function __wbg_error_f851667af71bcfc6(arg0, arg1) {
     try {
         console.error(getStringFromWasm0(arg0, arg1));
     } finally {
-        _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.__wbindgen_free(arg0, arg1);
+        wasm.__wbindgen_free(arg0, arg1);
     }
 };
 
@@ -296,8 +309,8 @@ function __wbindgen_object_clone_ref(arg0) {
     return addHeapObject(ret);
 };
 
-function __wbg_process_e56fd54cf6319b6c(arg0) {
-    const ret = getObject(arg0).process;
+function __wbg_crypto_e1d53a1d73fb10b8(arg0) {
+    const ret = getObject(arg0).crypto;
     return addHeapObject(ret);
 };
 
@@ -307,12 +320,17 @@ function __wbindgen_is_object(arg0) {
     return ret;
 };
 
-function __wbg_versions_77e21455908dad33(arg0) {
+function __wbg_process_038c26bf42b093f8(arg0) {
+    const ret = getObject(arg0).process;
+    return addHeapObject(ret);
+};
+
+function __wbg_versions_ab37218d2f0b24a8(arg0) {
     const ret = getObject(arg0).versions;
     return addHeapObject(ret);
 };
 
-function __wbg_node_0dd25d832e4785d5(arg0) {
+function __wbg_node_080f4b19d15bc1fe(arg0) {
     const ret = getObject(arg0).node;
     return addHeapObject(ret);
 };
@@ -322,47 +340,52 @@ function __wbindgen_is_string(arg0) {
     return ret;
 };
 
-function __wbg_static_accessor_NODE_MODULE_26b231378c1be7dd() {
-    const ret = module;
-    return addHeapObject(ret);
-};
-
-function __wbg_require_0db1598d9ccecb30() { return handleError(function (arg0, arg1, arg2) {
-    const ret = getObject(arg0).require(getStringFromWasm0(arg1, arg2));
+function __wbg_require_78a3dcfbdba9cbce() { return handleError(function () {
+    const ret = module.require;
     return addHeapObject(ret);
 }, arguments) };
 
-function __wbg_crypto_b95d7173266618a9(arg0) {
-    const ret = getObject(arg0).crypto;
+function __wbindgen_is_function(arg0) {
+    const ret = typeof(getObject(arg0)) === 'function';
+    return ret;
+};
+
+function __wbindgen_string_new(arg0, arg1) {
+    const ret = getStringFromWasm0(arg0, arg1);
     return addHeapObject(ret);
 };
 
-function __wbg_msCrypto_5a86d77a66230f81(arg0) {
+function __wbg_call_9495de66fdbe016b() { return handleError(function (arg0, arg1, arg2) {
+    const ret = getObject(arg0).call(getObject(arg1), getObject(arg2));
+    return addHeapObject(ret);
+}, arguments) };
+
+function __wbg_msCrypto_6e7d3e1f92610cbb(arg0) {
     const ret = getObject(arg0).msCrypto;
     return addHeapObject(ret);
 };
 
-function __wbg_newwithlength_66e5530e7079ea1b(arg0) {
+function __wbg_newwithlength_b56c882b57805732(arg0) {
     const ret = new Uint8Array(arg0 >>> 0);
     return addHeapObject(ret);
 };
 
-function __wbg_self_fd00a1ef86d1b2ed() { return handleError(function () {
+function __wbg_self_e7c1f827057f6584() { return handleError(function () {
     const ret = self.self;
     return addHeapObject(ret);
 }, arguments) };
 
-function __wbg_window_6f6e346d8bbd61d7() { return handleError(function () {
+function __wbg_window_a09ec664e14b1b81() { return handleError(function () {
     const ret = window.window;
     return addHeapObject(ret);
 }, arguments) };
 
-function __wbg_globalThis_3348936ac49df00a() { return handleError(function () {
+function __wbg_globalThis_87cbb8506fecf3a9() { return handleError(function () {
     const ret = globalThis.globalThis;
     return addHeapObject(ret);
 }, arguments) };
 
-function __wbg_global_67175caf56f55ca9() { return handleError(function () {
+function __wbg_global_c85a9259e621f3db() { return handleError(function () {
     const ret = __webpack_require__.g.global;
     return addHeapObject(ret);
 }, arguments) };
@@ -372,50 +395,50 @@ function __wbindgen_is_undefined(arg0) {
     return ret;
 };
 
-function __wbg_newnoargs_971e9a5abe185139(arg0, arg1) {
+function __wbg_newnoargs_2b8b6bd7753c76ba(arg0, arg1) {
     const ret = new Function(getStringFromWasm0(arg0, arg1));
     return addHeapObject(ret);
 };
 
-function __wbg_call_33d7bcddbbfa394a() { return handleError(function (arg0, arg1) {
+function __wbg_call_95d1ea488d03e4e8() { return handleError(function (arg0, arg1) {
     const ret = getObject(arg0).call(getObject(arg1));
     return addHeapObject(ret);
 }, arguments) };
 
-function __wbg_randomFillSync_91e2b39becca6147() { return handleError(function (arg0, arg1, arg2) {
+function __wbg_randomFillSync_6894564c2c334c42() { return handleError(function (arg0, arg1, arg2) {
     getObject(arg0).randomFillSync(getArrayU8FromWasm0(arg1, arg2));
 }, arguments) };
 
-function __wbg_subarray_270ff8dd5582c1ac(arg0, arg1, arg2) {
+function __wbg_subarray_7526649b91a252a6(arg0, arg1, arg2) {
     const ret = getObject(arg0).subarray(arg1 >>> 0, arg2 >>> 0);
     return addHeapObject(ret);
 };
 
-function __wbg_getRandomValues_b14734aa289bc356() { return handleError(function (arg0, arg1) {
+function __wbg_getRandomValues_805f1c3d65988a5a() { return handleError(function (arg0, arg1) {
     getObject(arg0).getRandomValues(getObject(arg1));
 }, arguments) };
 
-function __wbg_length_51f19f73d6d9eff3(arg0) {
+function __wbg_length_27a2afe8ab42b09f(arg0) {
     const ret = getObject(arg0).length;
     return ret;
 };
 
 function __wbindgen_memory() {
-    const ret = _js_interop_bg_wasm__WEBPACK_IMPORTED_MODULE_0__.memory;
+    const ret = wasm.memory;
     return addHeapObject(ret);
 };
 
-function __wbg_buffer_34f5ec9f8a838ba0(arg0) {
+function __wbg_buffer_cf65c07de34b9a08(arg0) {
     const ret = getObject(arg0).buffer;
     return addHeapObject(ret);
 };
 
-function __wbg_new_cda198d9dbc6d7ea(arg0) {
+function __wbg_new_537b7341ce90bb31(arg0) {
     const ret = new Uint8Array(getObject(arg0));
     return addHeapObject(ret);
 };
 
-function __wbg_set_1a930cfcda1a8067(arg0, arg1, arg2) {
+function __wbg_set_17499e8aa4003ebd(arg0, arg1, arg2) {
     getObject(arg0).set(getObject(arg1), arg2 >>> 0);
 };
 
@@ -4315,7 +4338,7 @@ var js_interop_1 = __webpack_require__(/*! ../pkg/js_interop */ "../pkg/js_inter
                                     else {
                                         var text = response.results.map(function (issue) {
                                             var message = (issue.severity === 'error' ? 'ERROR' : 'INFO') + ': '
-                                                + '<a href="' + issue.link + '" target="_blank">' + issue.type + '</a> - ' + issue.line_from + ':'
+                                                + issue.type + ' - ' + issue.line_from + ':'
                                                 + issue.column_from + ' - ' + escapeHtml(issue.message);
                                             if (issue.other_references) {
                                                 message += "<br><br>"
